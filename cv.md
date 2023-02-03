@@ -1,13 +1,14 @@
 ## Nikita Nevrov ##
+-------
 ### **E-mail: (garrygar15@gmail.com)**
 **Brief information about yourself:**
-### Моя цель:
-  - изучение языка програмирования JavaScript.
-  - научиться использовать его во Front-end разрабоке.
-***Мои сильные стороны:***
-  - быстрая обучаемость
-  - упертость!
- * Образование:
-   - ~~Государственная и муниципальная служба(бакалавр)~~
- # Уровень Английского языка:
- *Могу рассказать базовые вещи о себе, но не смогу поддержать долгий разговор о чем либо еще. Могу прочитать текст, перевести его и понять, но написать без ошибок вряд ли смогу.*
+### My target:
+  - learning the JavaScript programming language.
+  - learn how to use it in Front-end development.
+***My strengths:***
+  - fast learnability
+  - stubbornness
+ * Education:
+   - ~~State and Municipal Service (Bachelor's degree)~~
+ # English language level:
+ *I can tell basic things about myself, but I won't be able to keep up a long conversation about anything else. I can read the text, translate it and understand it, but I can hardly write without mistakes.*
