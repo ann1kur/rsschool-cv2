@@ -1,0 +1,32 @@
+body{
+font-family: Montserrat,sans-serif;
+font-size: 30px;
+}
+.name{
+    font-weight: bold;
+    margin-top:0;
+}
+.header{
+    
+    background-color: bisque;
+}
+.container{
+    max-width: 1280;
+}
+.faceImg{
+    position: absolute;
+    top: 11px;
+    left: 10% ;
+    border-radius: 10px;
+    height: 240px;
+    weight: 240px;
+}
+.myName{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.quote{
+    font-size: 25px;
+    font-style: italic;
+}
